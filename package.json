@@ -1,0 +1,11 @@
+{
+    "name": "stock-scraper",
+    "description": "stock watch from Czech web",
+    "repository": "github.com:Sixtease/stock-scraper.git",
+    "license": "PDDL-1.0",
+    "version": "0.0.1",
+    "devDependencies": {
+        "request": "latest",
+        "cheerio": "latest"
+    }
+}
