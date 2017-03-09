@@ -5,7 +5,8 @@
     "license": "PDDL-1.0",
     "version": "0.0.1",
     "devDependencies": {
-        "request": "latest",
-        "cheerio": "latest"
+        "request-promise": "latest",
+        "cheerio": "latest",
+        "dateformat": "latest"
     }
 }
